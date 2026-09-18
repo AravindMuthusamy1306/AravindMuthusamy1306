@@ -147,9 +147,6 @@ Responsive e-commerce app built on Oracle APEX with full product browsing, cart,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AravindMuthusamy1306&show_icons=true&theme=radical&hide_border=true" alt="Aravind's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AravindMuthusamy1306&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AravindMuthusamy1306&theme=radical&hide_border=true" alt="GitHub streak" />
 
 </div>
